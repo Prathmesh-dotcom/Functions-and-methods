@@ -21,6 +21,6 @@ public class Even {
         else{
             System.out.print(num+" :Number is odd");
         }
-
+        sc.close();
     }
 }
